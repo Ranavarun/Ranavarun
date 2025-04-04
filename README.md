@@ -1,7 +1,7 @@
 # 💼 Varun Rana's GitHub Portfolio  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="400px">
 </p>  
 
 Welcome to my **GitHub portfolio!** 🚀  
