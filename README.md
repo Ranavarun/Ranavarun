@@ -44,10 +44,22 @@ Welcome to my **GitHub portfolio!** 🚀 I'm **Varun Rana**, an **Aspiring Data 
 </p>
 
 If you find my projects interesting or want to collaborate, feel free to connect with me:
-- **LinkedIn:** [Varun Rana](https://www.linkedin.com/in/varunrana)
+- **LinkedIn:** [Varun Rana](https://www.linkedin.com/in/varun-rana-/)
 - **GitHub:** [varunrana](https://github.com/varunrana)
-- **Email:** your.email@example.com
+- **Email:** varun1sep2002@gmail.com
 
 📌 **Don't forget to ⭐ my repositories if you find them useful!** 🚀✨
+
+---
+
+## 🎥 Data Analytics & Business Analytics in Action
+<p align="center">
+  <img src="https://your-custom-data-analytics-gif-url.com" width="400px">
+</p>
+
+This animation showcases the power of **Data Analytics & Business Intelligence**:
+- 📊 **Real-time dashboards** updating with live data.
+- 🔍 **Key Insights**: Sales growth, trends, profit margins.
+- 📈 **Data flowing dynamically** from SQL, Power BI, and Excel.
 
 #DataAnalytics #PowerBI #SQL #Excel #GoogleSheets #BusinessIntelligence
