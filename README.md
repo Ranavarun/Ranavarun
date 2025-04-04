@@ -1,16 +1,53 @@
-## Hi there 👋
+# 💼 Varun Rana's GitHub Portfolio
 
-<!--
-**Ranavarun/Ranavarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px">
+</p>
 
-Here are some ideas to get you started:
+Welcome to my **GitHub portfolio!** 🚀 I'm **Varun Rana**, an **Aspiring Data Analyst** with strong skills in **SQL, Power BI, Excel & Google Sheets**. Passionate about **Data-Driven Insights & Problem Solving**, I aim to transform raw data into meaningful visualizations and insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education:** Roorkee Institute of Technology
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Power BI: Time & Date Intelligence DAX Functions
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300px">
+</p>
+
+**📌 Description:** This project explores and applies **Time & Date Intelligence DAX functions** to analyze sales performance over time.
+- **📂 Dataset:** Sales transactions spanning multiple years.
+- **📈 Key Insights:** YoY growth, MoM trends, rolling 12-month sales, cumulative totals, and region/product performance.
+- **🛠️ Tools Used:** Power BI, DAX, Excel, Google Sheets.
+
+🔗 **[Project Repository](https://github.com/yourusername/powerbi-time-intelligence)**
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300px">
+</p>
+
+- **Power BI** 📊: Data modeling, DAX calculations, interactive dashboards.
+- **SQL** 🛢️: Writing queries, data extraction, joins, and aggregations.
+- **Excel & Google Sheets** 📂: Pivot tables, charts, advanced formulas, Power Query.
+- **Python (Basic)** 🐍: Data cleaning & visualization (Matplotlib, Pandas).
+
+---
+
+## 📩 Connect with Me
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300px">
+</p>
+
+If you find my projects interesting or want to collaborate, feel free to connect with me:
+- **LinkedIn:** [Varun Rana](https://www.linkedin.com/in/varunrana)
+- **GitHub:** [varunrana](https://github.com/varunrana)
+- **Email:** your.email@example.com
+
+📌 **Don't forget to ⭐ my repositories if you find them useful!** 🚀✨
+
+#DataAnalytics #PowerBI #SQL #Excel #GoogleSheets #BusinessIntelligence
