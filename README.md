@@ -1,7 +1,7 @@
 # 💼 Varun Rana's GitHub Portfolio  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="300px">
 </p>  
 
 Welcome to my **GitHub portfolio!** 🚀  
@@ -15,7 +15,7 @@ I'm **Varun Rana**, an **Aspiring Data Analyst** with expertise in **SQL, Power 
 
 ### 📊 Power BI: Time & Date Intelligence DAX Functions  
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300px">
 </p>  
 
 📌 **Description:**  
@@ -31,7 +31,7 @@ This project explores **Time & Date Intelligence DAX functions** in Power BI to 
 
 ### 📊 SQL Data Exploration: Sales & Customer Insights  
 <p align="center">
-  <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px">
 </p>  
 
 📌 **Description:**  
@@ -47,7 +47,7 @@ A SQL-based project analyzing customer purchase behavior and sales trends using 
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300px">
 </p>  
 
 - **Power BI** 📊: Data modeling, DAX calculations, KPI dashboards, interactive visualizations.  
@@ -59,7 +59,7 @@ A SQL-based project analyzing customer purchase behavior and sales trends using 
 
 ## 📩 Connect with Me  
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="250px">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px">
 </p>  
 
 Let's connect and collaborate! 🚀  
@@ -74,7 +74,7 @@ Let's connect and collaborate! 🚀
 
 ## 🎥 Data Analytics in Action  
 <p align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
 </p>  
 
 📊 **How Data Analytics Transforms Business Decisions:**  
