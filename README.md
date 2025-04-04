@@ -1,94 +1,116 @@
-# 💼 Varun Rana's GitHub Portfolio  
+# 💼 Varun Rana | Data Analyst Portfolio  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="600px">
 </p>  
 
-Welcome to my **GitHub portfolio!** 🚀  
-I'm **Varun Rana**, an **Aspiring Data Analyst** with expertise in **SQL, Power BI, Excel & Google Sheets**. I am passionate about transforming **raw data into actionable insights** using Business Intelligence tools.  
+👋 Hi, I’m **Varun Rana**, an **Aspiring Data Analyst** passionate about turning **data into insights**!  
+I specialize in **Power BI, SQL, Excel, and Google Sheets**, helping businesses make data-driven decisions.  
 
 🎓 **Education:** Roorkee Institute of Technology  
+📌 **Passion:** Data Visualization | Business Intelligence | Data-Driven Decision-Making  
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Career Milestones & Achievements  
 
-### 📊 Power BI: Time & Date Intelligence DAX Functions  
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="500px">
+</p>  
+
+✔ **Started Data Analytics Journey** 🚀 *(2023)*  
+✔ **Built 10+ Power BI Dashboards** 📊 *(2023 - Present)*  
+✔ **Mastered SQL for Data Analysis** 🛢️ *(2024)*  
+✔ **Excel Expert: Pivot Tables, Power Query, Automation** 📂  
+✔ **Worked on Live Projects in Business Intelligence** 📈  
+
+💡 **Next Milestone:** Advanced **Machine Learning for Data Analytics** 🤖  
+
+---
+
+## 📊 Featured Projects  
+
+### 1️⃣ Power BI: Time & Date Intelligence DAX Functions  
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="500px">
 </p>  
 
 📌 **Description:**  
-This project explores **Time & Date Intelligence DAX functions** in Power BI to analyze sales performance over time.  
+This project focuses on **Time & Date Intelligence DAX functions** to analyze sales performance over time.  
 
-- **📂 Dataset:** Sales transactions spanning multiple years.  
-- **📈 Key Insights:** Year-over-Year (YoY) growth, Month-over-Month (MoM) trends, rolling 12-month sales, cumulative totals, and region/product performance.  
-- **🛠️ Tools Used:** Power BI, DAX, Excel, Google Sheets.  
+✔ **Dataset:** Multi-year sales transactions  
+✔ **Key Insights:** YoY growth, MoM trends, rolling 12-month sales  
+✔ **Tools Used:** Power BI, DAX, Excel, Google Sheets  
 
-🔗 **[View Project Repository](https://github.com/yourusername/powerbi-time-intelligence)**  
+🔗 **[View Repository](https://github.com/yourusername/powerbi-time-intelligence)**  
 
 ---
 
-### 📊 SQL Data Exploration: Sales & Customer Insights  
+### 2️⃣ SQL Data Exploration: Sales & Customer Insights  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500px">
 </p>  
 
 📌 **Description:**  
-A SQL-based project analyzing customer purchase behavior and sales trends using **joins, aggregations, and window functions**.  
+A **SQL-based** project analyzing **customer behavior and sales performance**.  
 
-- **📂 Dataset:** E-commerce sales and customer transactions.  
-- **📈 Key Insights:** Customer segmentation, sales trends, top-selling products, revenue analysis.  
-- **🛠️ Tools Used:** SQL (PostgreSQL/MySQL), Power BI for visualization.  
+✔ **Dataset:** E-commerce transactions  
+✔ **Key Insights:** Customer segmentation, revenue analysis, profit breakdown  
+✔ **Tools Used:** SQL, Power BI  
 
-🔗 **[View Project Repository](https://github.com/yourusername/sql-sales-analysis)**  
+🔗 **[View Repository](https://github.com/yourusername/sql-sales-analysis)**  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🔥 Skills & Tools  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="500px">
 </p>  
 
-- **Power BI** 📊: Data modeling, DAX calculations, KPI dashboards, interactive visualizations.  
-- **SQL** 🛢️: Query writing, joins, CTEs, window functions, aggregations.  
-- **Excel & Google Sheets** 📂: Pivot tables, data cleaning, Power Query, VBA scripting.  
-- **Python (Basic)** 🐍: Pandas, Matplotlib, data wrangling & analysis.  
+✔ **Power BI** – Data modeling, DAX, interactive dashboards  
+✔ **SQL** – Queries, joins, aggregations, window functions  
+✔ **Excel & Google Sheets** – Pivot tables, Power Query, data automation  
+✔ **Python (Basic)** – Pandas, Matplotlib, data analysis  
+
+---
+
+## 🏆 GitHub Stats & Contributions  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunrana&theme=dark&hide_border=false" width="500px">
+</p>  
+
+📊 **My GitHub Contribution Graph:**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=varunrana&theme=react-dark&hide_border=false" width="600px">
+</p>  
 
 ---
 
 ## 📩 Connect with Me  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="400px">
 </p>  
 
-Let's connect and collaborate! 🚀  
+📧 **Email:** varun1sep2002@gmail.com  
+💼 **LinkedIn:** [Varun Rana](https://www.linkedin.com/in/varun-rana-/)  
+💻 **GitHub:** [varunrana](https://github.com/varunrana)  
 
-- **LinkedIn:** [Varun Rana](https://www.linkedin.com/in/varun-rana-/)  
-- **GitHub:** [varunrana](https://github.com/varunrana)  
-- **Email:** varun1sep2002@gmail.com  
-
-📌 **If my projects help you, don’t forget to ⭐ them!** 🌟  
+📌 **Don't forget to ⭐ my repositories if you find them useful!** 🚀✨  
 
 ---
 
-## 🎥 Data Analytics in Action  
+# 📈 Data Analytics & Business Intelligence in Action  
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400px">
 </p>  
 
-📊 **How Data Analytics Transforms Business Decisions:**  
-- **📡 Real-time dashboards**: Dynamic visualizations with real-time updates.  
-- **🔍 Key Insights**: Customer trends, profitability, forecasting.  
-- **📈 Data Flow**: Integrating SQL, Power BI, and Excel for meaningful reports.  
+🔹 **Live Dashboards Updating in Real-Time**  
+🔹 **Interactive Reports Analyzing Business Performance**  
+🔹 **Automated Data Pipelines & Reporting Tools**  
 
-📌 **#DataAnalytics #PowerBI #SQL #Excel #GoogleSheets #BusinessIntelligence**  
+📊 **Transforming Data into Insights, One Dashboard at a Time!**  
 
----
-
-## 📌 How to Use This Portfolio  
-1. Browse my repositories for detailed projects.  
-2. Clone repositories and explore Power BI dashboards, SQL queries, and Excel reports.  
-3. Feel free to reach out for discussions or collaborations.  
-
-🚀 **Thank you for visiting my portfolio!**  
+#DataAnalytics #PowerBI #SQL #Excel #GoogleSheets #BusinessIntelligence  
